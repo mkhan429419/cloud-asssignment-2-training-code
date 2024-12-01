@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+diffusers
+pillow
+nest_asyncio
+transformers
+pydantic
+accelerate
+datasets
